@@ -1,4 +1,7 @@
 Flask
-pandas 
+gunicorn
+pandas
 numpy
-ipykernel
+scikit-learn
+
+-e .
